@@ -6,3 +6,7 @@ Este é um app híbrido que pode ser compilado em Android, IOS.
 
 https://github.com/andersonlibertas/AppCadastroClientesCordovas/blob/master/app1.png?raw=true
 
+https://github.com/andersonlibertas/AppCadastroClientesCordovas/blob/master/app2.png?raw=true
+
+https://github.com/andersonlibertas/AppCadastroClientesCordovas/blob/master/app3.png?raw=true
+
